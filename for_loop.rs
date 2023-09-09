@@ -5,7 +5,7 @@ fn main() {
     }
 
     // Iterate over an array
-    let array = [10, 20, 30, 40, 50];
+    let array = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
     for element in &array {
         println!("Element: {}", element);
     }
